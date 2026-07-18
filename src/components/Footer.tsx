@@ -92,7 +92,7 @@ const Footer = () => {
                   <MapPin className="h-5 w-5 mt-0.5 flex-shrink-0" />
                   <div className="text-primary-foreground/80">
                     <p className="font-semibold">Head Office:</p>
-                    <p>29 Chuburji, Chowk Multan Road, Lahore</p>
+                    <p>123 Industrial Avenue, Tech District, City</p>
                   </div>
                 </div>
               </li>
@@ -101,7 +101,7 @@ const Footer = () => {
                   <MapPin className="h-5 w-5 mt-0.5 flex-shrink-0" />
                   <div className="text-primary-foreground/80">
                     <p className="font-semibold">Warehouse:</p>
-                    <p>New Chuburji Park, A-Block, Lahore</p>
+                    <p>456 Warehouse Blvd, Logistics Park, City</p>
                   </div>
                 </div>
               </li>
@@ -115,7 +115,7 @@ const Footer = () => {
               <li className="flex items-center gap-2">
                 <Mail className="h-5 w-5 flex-shrink-0" />
                 <span className="text-primary-foreground/80">
-                  timeairtechnology92@gmail.com
+                  contact@dummy-timeairtechnology.com
                 </span>
               </li>
             </ul>

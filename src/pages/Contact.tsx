@@ -165,7 +165,7 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold mb-1">Address</h3>
                       <p className="text-muted-foreground">
-                        29 Chuburji, Chowk Multan Road, Lahore
+                        123 Industrial Avenue, Tech District, City
                       </p>
                     </div>
                   </div>
@@ -195,7 +195,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Email</h3>
-                      <p className="text-muted-foreground">timeairtechnology92@gmail.com</p>
+                      <p className="text-muted-foreground">contact@dummy-timeairtechnology.com</p>
                     </div>
                   </div>
                 </CardContent>

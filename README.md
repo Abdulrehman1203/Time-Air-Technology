@@ -86,10 +86,10 @@ In the project directory, you can run:
 ## 📞 Contact
 
 **Time Air Technology**  
-Head Office: 29 Chuburji, Chowk Multan Road, Lahore  
-Warehouse: New Chuburji Park, A-Block, Lahore  
+Head Office: 123 Industrial Avenue, Tech District, City  
+Warehouse: 456 Warehouse Blvd, Logistics Park, City  
 WhatsApp/Phone: +1 555 123 4567 | +1 555 987 6543  
-Email: [timeairtechnology92@gmail.com](mailto:timeairtechnology92@gmail.com)
+Email: [contact@dummy-timeairtechnology.com](mailto:contact@dummy-timeairtechnology.com)
 
 ---
 *Built with ❤️ for Time Air Technology*
