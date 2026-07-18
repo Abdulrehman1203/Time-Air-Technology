@@ -83,13 +83,5 @@ In the project directory, you can run:
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Contact
-
-**Time Air Technology**  
-Head Office: 123 Industrial Avenue, Tech District, City  
-Warehouse: 456 Warehouse Blvd, Logistics Park, City  
-WhatsApp/Phone: +1 555 123 4567 | +1 555 987 6543  
-Email: [contact@dummy-timeairtechnology.com](mailto:contact@dummy-timeairtechnology.com)
-
 ---
 *Built with ❤️ for Time Air Technology*
